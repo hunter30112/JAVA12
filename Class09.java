@@ -1,7 +1,7 @@
 package JAVA12;
 
-import pack9.sub1.CSphere;
-import pack9.sub2.CTrapezoid;
+import pack9.sub1.CSphere; //呼叫CSphere函數
+import pack9.sub2.CTrapezoid; //呼叫CTrapezoid函數
 public class Class09 {
 
 	public static void main(String[] args) {
