@@ -1,8 +1,8 @@
 package JAVA12;
 
-import pack6.subpack1.CCircle; //©I¥sCCurcle¨ç¼Æ
-import pack6.subpack2.CRectangle; //©I¥sCRectangle¨ç¼Æ
-import pack6.subpack1.subsubpack.CStyle; //©I¥sCStyle¨ç¼Æ
+import pack6.subpack1.CCircle; //å‘¼å«CCircleå‡½æ•¸
+import pack6.subpack2.CRectangle; //å‘¼å«CRectangleå‡½æ•¸
+import pack6.subpack1.subsubpack.CStyle; //å‘¼å«CStyleå‡½æ•¸
 
 public class Class08 {
 
